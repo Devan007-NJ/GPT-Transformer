@@ -1,6 +1,6 @@
 # **GPT COMPONENTS**
 In this directory there contains a python module for position embedding 
-which carries out the positiona encoding technology found in the paper
+which carries out the position encoding technology found in the paper
 "Attention is All you Need" by Google.
 It uses Tensorflow and keras as the framework and API to build this
 particular module
