@@ -8,3 +8,5 @@ particular module
 There also lies a test_pos.py which verifies that the positional encoder works properly
 
 The control flow of GPT-2(large) which is a Decoder-Only Transformer is given below:
+![control-dia-page-1](diagrams/img1.jpeg)
+![control-dia-page-1](diagrams/img2.jpeg)
